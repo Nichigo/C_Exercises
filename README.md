@@ -1,1 +1,1 @@
-Exercises from the Zed Show's book.
+Exercises from Zed Show's book.
