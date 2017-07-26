@@ -2,7 +2,9 @@
     "files.associations": {
         "stdio2.h": "c",
         "stdio.h": "c",
-        "cdefs.h": "c"
+        "cdefs.h": "c",
+        "limits.h": "c",
+        "stdint.h": "c"
     },
     "C_Cpp.autocomplete": "Default"
 }
