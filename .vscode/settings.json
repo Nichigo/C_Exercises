@@ -4,7 +4,8 @@
         "stdio.h": "c",
         "cdefs.h": "c",
         "limits.h": "c",
-        "stdint.h": "c"
+        "stdint.h": "c",
+        "dbg.h": "c"
     },
     "C_Cpp.autocomplete": "Default"
 }
