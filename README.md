@@ -1,1 +1,1 @@
-Exercises from Zed Show's book.
+Exercises from Zed Shaw's book.
